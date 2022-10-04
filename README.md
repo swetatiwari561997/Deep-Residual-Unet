@@ -9,3 +9,14 @@ Residual units are used instead of plain neural units as basic blocks to build t
 The residual unit ease training of the network.
 The skip connections within the network facilitates information propagation without degradation
 Optimizer - Adam(Learning Rate 0.001) , Loss - Categorical Cross-entropy, Activation - ReLU
+
+
+
+
+
+# References
+1.Medical Segmentation Decathlon Challenge
+http://medicaldecathlon.com/
+2.Road Extraction by Deep Residual U-Net
+https://arxiv.org/pdf/1711.10684.pdf
+
