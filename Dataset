@@ -1,0 +1,6 @@
+Link to dataset:https://drive.google.com/file/d/1wEB2I6S6tQBVEPxir8cA5kFB8gTQadYY/view?usp=sharing
+
+Dataset has been taken from an active Challenge  Medical Segmentation Decathlon.
+We have taken Heart Dataset from there.
+We have to detect the defect in Left Atrium if any.
+There are total 1729 training images and 542 test images.
