@@ -1,3 +1,4 @@
+![arch](https://user-images.githubusercontent.com/114977437/193758417-929e426f-c922-47ae-bc38-6110c58c01dd.png)
 # Deep-Residual-Unet
 Mediacal Image Segmentation Using Deep Residual UNet.
 
